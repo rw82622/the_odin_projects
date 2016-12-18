@@ -1,0 +1,67 @@
+img {
+    display: block;
+    margin-left: 38%;
+    width: 40%;
+    padding-top: 10%;
+}
+div img {
+	height: 30px;
+	width: 30px;
+	padding-top: 5px;
+	margin: 0;
+}
+#Searchbox {
+	width: 50%;
+	height: 30px;
+	margin-left: 25%;
+	margin-top: 2%;
+	border: 1px solid #6699ff;
+}
+#Search {
+margin-left: 35%;
+margin-top: 20px;
+margin-right: 10%;
+background-color: #E8E8E8;
+padding: 15px;
+}
+#Lucky {
+margin-top: 20px;
+background-color: #E8E8E8;
+padding: 15px;
+}
+footer {
+	position: fixed;
+	bottom: 10px;
+	background-color: #E8E8E8;
+	width: 98%;
+	padding: 10px;
+}
+a {
+	text-decoration: none;
+	color: black;
+} 
+a:hover {
+	text-decoration: underline;
+}
+
+.lf {
+	float: left;
+	padding-right: 20px;
+}
+.rf {
+	float: right;
+	padding-left: 20px; 
+}
+.nb {
+	width: 100%;
+	padding-top: 20px;
+}
+.bt {
+	background-color: #6699ff;
+	padding: 10px;
+}
+.ct {
+	float: right;
+	padding-left: 20px;
+	padding-top: 10px;
+}
